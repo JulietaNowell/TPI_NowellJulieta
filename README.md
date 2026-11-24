@@ -574,7 +574,7 @@ entorno local de desarrollo y demostración académica.
 ## 18. Enlaces de entrega
 
 - Repositorio GitHub: https://github.com/JulietaNowell/TPI_NowellJulieta
-- Video demostrativo: PENDIENTE_URL_VIDEO
+- Video demostrativo: https://www.youtube.com/watch?v=fSBgDtE_7zo
 
 ## Autora
 
